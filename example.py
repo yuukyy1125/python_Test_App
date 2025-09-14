@@ -27,7 +27,12 @@ def add(a, b):
 print(add(8, 7))
 
 #6. example.pyをリポジトリにコミットし、pushしてください。
+#git remote add origin git@github.com:yuukyy1125/python_Test_App.git
+#git push -u origin main
 
 #上記のコードを実際に実行した動画をloomで撮影し、GithubのREADMEに添付してください。
 #スクリプトの実行はGUIからではなくターミナルからコマンドを入力して実行してください。
 #リンク：https://www.loom.com/share/878f26f3956f450081d37c2084e1b386?sid=d380ffe2-13e3-4f7a-b80e-26c8a5e5023c
+
+#Pythonの課題のGithubリンク
+#リンク：https://github.com/yuukyy1125/python_Test_App.git
